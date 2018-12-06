@@ -1,4 +1,4 @@
-﻿# Data Vaulr core entities
+# Data Vault core entities
 
 ***
 Hub
