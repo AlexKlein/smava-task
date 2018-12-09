@@ -1,8 +1,8 @@
-﻿create or replace procedure upload(pSrcSchemaName varchar(256),
-                                   pSrcTableName  varchar(256),
-                                   pTgtSchemaName varchar(256),
-                                   pTgtTableName  varchar(256),
-                                   pLoadType      integer default 1)
+﻿create or replace procedure upload (pSrcSchemaName varchar(256),
+                                    pSrcTableName  varchar(256),
+                                    pTgtSchemaName varchar(256),
+                                    pTgtTableName  varchar(256),
+                                    pLoadType      integer default 1)
 as $$
 declare
     vColConstList  varchar(1024);  -- list of columns in constraint
