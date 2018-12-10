@@ -4,6 +4,6 @@
 zip_details
 ====
 
-The procedure gets ZIP codes from pgSQL table, than gets ZIP attributes via API and put attributes into pgSQL table.
+The script gets ZIP codes from pgSQL table, than gets ZIP attributes via API and puts attributes into pgSQL table.
 
 ***

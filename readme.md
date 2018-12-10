@@ -1,6 +1,6 @@
 # smava task
 
-This task from smava for check my knowledge in DWH and Python developing.
+This is task from smava to check my DWH and Python skills
 
 ## Description
 
